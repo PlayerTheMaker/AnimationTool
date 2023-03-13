@@ -34,4 +34,7 @@ Each object has several circles which you can click and drag to modify it's stat
 
 <sub>Note: rotation rotates the sprite before it is scaled, this means it will have a resolution of the original image and will fit inside said resolution even if the rotation would normally require it to be outside it. You can change this by changing the order of pygame.scale() and pygame.rotate) in each of the objects.</sub>
 
+***There is no way to delete objects through the editor, go to the testProject folder and remove the object from the objs array.***
+If you want to clear all objects just replace that section with ```objs = []```
+
 That *should* be about it, though it has many small bugs and quirks. Probably not what you want to use to make much of anything with, this is something I made for fun.
