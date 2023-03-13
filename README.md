@@ -22,7 +22,7 @@ pip install easygui
 |left arrow|changes viewed frame to the next|
 |right arrow|changes viewed frame to the previous|
 
-**When you add an object it spawns above the camera area**
+**When you add an object it spawns above the camera area.**
 Each object has several circles which you can click and drag to modify it's state in the current frame.
 
 | Color | Function |
