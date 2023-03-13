@@ -37,4 +37,4 @@ Each object has several circles which you can click and drag to modify it's stat
 ***There is no way to delete objects through the editor, go to the testProject folder and remove the object from the objs array.***
 If you want to clear all objects just replace that section with ```objs = []```
 
-That *should* be about it, though it has many small bugs and quirks. Probably not what you want to use to make much of anything with, this is something I made for fun.
+That *should* be about it, though it has many small bugs and quirks. Probably not what you want to use to make much of anything with, this is something I made for fun, and I am not a competent programmer or software designer.
