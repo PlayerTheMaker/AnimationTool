@@ -38,3 +38,5 @@ Each object has several circles which you can click and drag to modify it's stat
 If you want to clear all objects just replace that section with ```objs = []```
 
 That *should* be about it, though it has many small bugs and quirks. Probably not what you want to use to make much of anything with, this is something I made for fun, and I am not a competent programmer or software designer.
+
+A video showcasing this tool: https://youtu.be/pV-ArF3Ev1k
